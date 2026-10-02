@@ -12,7 +12,6 @@
 
 using namespace std;
 
-
 DBParser::DBParser()
 {
     lineno_ = 1;

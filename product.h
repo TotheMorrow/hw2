@@ -5,6 +5,7 @@
 #include <set>
 #include <vector>
 #include <algorithm>
+#include <sstream>
 
 class Product {
 public:
@@ -44,6 +45,5 @@ protected:
     double price_;
     int qty_;
     std::string category_;
-
 };
 #endif

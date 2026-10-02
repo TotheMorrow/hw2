@@ -10,12 +10,10 @@ Product::Product(const std::string category, const std::string name, double pric
     qty_(qty),
     category_(category)
 {
-
 }
 
 Product::~Product()
 {
-
 }
 
 
